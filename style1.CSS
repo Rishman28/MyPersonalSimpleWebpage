@@ -1,0 +1,131 @@
+h1{
+    color: darkred;
+    font-size: 40px;
+    font-family: cursive;
+    background-color: rgb(11, 211, 211);
+    border: 2px solid rgb(0, 0, 0);
+}
+h2{
+    color: goldenrod;
+    font-size: 40px;
+    font-family: monospace;
+    background-color: rgb(102, 4, 4);
+    border: 2px solid rgb(13, 19, 102);
+}
+h3{
+    color: indigo;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gold;
+    border: 2px solid rgb(0, 0, 0);
+}
+h4{
+    color: rgb(13, 7, 48);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(207, 235, 84);
+    border: 2px solid rgb(0, 0, 0);
+}
+summary{
+    color: rgb(3, 8, 37);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(116, 228, 194);
+    border: 2px solid rgb(0, 0, 0);
+}
+details{
+    color: rgb(39, 0, 3);
+    font-size: 20px;
+    font-family: sans-serif;
+    background-color: rgb(55, 247, 17);
+    border: 2px solid rgb(0, 0, 0);
+}
+hr{
+    border: 2px solid rgb(0, 0, 0);
+}
+th{
+    color: rgb(39, 0, 3);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(55, 247, 17);
+    border: 2px solid rgb(0, 0, 0);
+}
+TD{
+    color: rgb(6, 2, 31);
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(6, 173, 240);
+    border: 2px solid rgb(2, 2, 0);
+}
+p{
+    color: rgb(134, 8, 18);
+    font-size: 20px;
+    font-family: cursive;
+    background-color: rgb(241, 211, 126);
+}
+h2{
+    color: rgb(8, 45, 88);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(218, 2, 200);
+    border: 2px solid rgb(0, 0, 0);
+}
+img{
+    border: 10px solid rgb(8, 87, 21);
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+}
+.Form{
+     width:1140px ;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: chartreuse;
+     border: 5px solid rgb(2, 2, 2);
+}
+.RB{
+    width:50% ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chartreuse;
+    border: 5px solid rgb(2, 2, 2);
+}
+/* .background{
+    background-image: url("img.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+} */
+/* .R{
+    width:50% ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chartreuse;
+    border: 5px solid rgb(2, 2, 2);
+}
+.B{
+    width:50% ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: chartreuse;
+    border: 5px solid rgb(2, 2, 2);
+} */
+/* Div{
+    background-image: url("img.jpg");
+            background-repeat: no-repeat;
+            background-size: 1000px;
+            background-attachment: fixed;
+            background-position: center;
+            height: 1000px;
+            width: 1340px;
+} */
+/* .table { 
+    border: 2px solid rgb(102, 4, 4);
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+}
+th{
+    background-color: brown;
+} */
